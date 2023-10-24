@@ -1,0 +1,13 @@
+/* Setting the background color to black for the entire document */
+body {
+    background-color: black;
+}
+
+/* Styling for the header */
+header {
+    font-family: Verdana, Geneva, sans-serif; /* Verdana font family with fallbacks */
+    font-weight: normal; /* Normal font weight */
+    font-size: 50px; /* Font size of 50px */
+    color: white; /* Text color set to white */
+    text-align: center; /* Centering the text */
+}
